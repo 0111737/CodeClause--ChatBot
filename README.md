@@ -1,5 +1,5 @@
-# Yossef Essam Fouad
+# Shimaa Alaa Youssef
 # CodeClause : ChatBot
-# IDE : PyCharm 
+# IDE : Google Colab
 # Language : Python 
  
